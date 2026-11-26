@@ -1,2 +1,2 @@
-1.10.56
-PDF da Aderencia XYZ: grafico Z em secoes de 50 furos.
+1.10.57
+Ortofotos: cada arquivo aparece uma vez só na lista; cópias repetidas são removidas ao abrir a liberação.
