@@ -1,2 +1,2 @@
-1.10.53
-Grafico de Aderencia Z: o quadro separa a tendencia do valor do furo e mostra quanto faltou para a objetiva.
+1.10.54
+Grafico de Aderencia Z dividido em secoes de 50 furos (tela e relatorio).
