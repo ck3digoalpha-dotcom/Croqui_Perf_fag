@@ -1,2 +1,2 @@
-1.10.52
-Grafico de Aderencia Z: passar o mouse ou clicar mostra a cota e a metragem realizada de cada furo.
+1.10.53
+Grafico de Aderencia Z: o quadro separa a tendencia do valor do furo e mostra quanto faltou para a objetiva.
