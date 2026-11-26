@@ -1,2 +1,2 @@
-1.10.51
-Atualizacao pela internet (GitHub) para qualquer computador.
+1.10.52
+Grafico de Aderencia Z: passar o mouse ou clicar mostra a cota e a metragem realizada de cada furo.
