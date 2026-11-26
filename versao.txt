@@ -1,2 +1,2 @@
-1.10.57
-Ortofotos: cada arquivo aparece uma vez só na lista; cópias repetidas são removidas ao abrir a liberação.
+1.10.58
+Locado novo adicionado no croqui (sem marcar auxiliar) entra como furo de produção, igual aos outros locados.
