@@ -1,2 +1,2 @@
-1.10.55
-PDFs mais nitidos e menores (graficos e tabelas sem perda de qualidade).
+1.10.56
+PDF da Aderencia XYZ: grafico Z em secoes de 50 furos.
