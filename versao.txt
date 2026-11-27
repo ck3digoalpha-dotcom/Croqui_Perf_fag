@@ -1,2 +1,2 @@
-1.10.61
-Aba Vista 3D aparece na barra de abas (depois de Relatórios).
+1.10.62
+Vista 3D: comprimento do furo pela situação do carregamento (realizada/objetiva) ou metragem prevista; a dica mostra a fonte.
