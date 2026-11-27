@@ -1,2 +1,2 @@
-1.10.66
-Vista 3D: ao parar o mouse durante o giro, já mostra a qualidade cheia.
+1.10.67
+Furos desmontados = número da situação do carregamento; faltantes contados furo a furo.
