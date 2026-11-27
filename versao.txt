@@ -1,2 +1,2 @@
-1.10.60
-Vista 3D: importar superfície (DEM, LAS/LAZ, pontos, DXF, LandXML, OBJ) e ver os furos em 3D; ordenar lista de ortofotos; degradê na cor central e efeito vidro em painéis e botões.
+1.10.61
+Aba Vista 3D aparece na barra de abas (depois de Relatórios).
