@@ -1,2 +1,2 @@
-1.10.62
-Vista 3D: comprimento do furo pela situação do carregamento (realizada/objetiva) ou metragem prevista; a dica mostra a fonte.
+1.10.63
+Vista 3D: superfície triangulada (facetas, luz por triângulo, cores por cota) e opção Suave (detalhada).
