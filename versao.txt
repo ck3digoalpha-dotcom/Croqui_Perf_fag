@@ -1,2 +1,2 @@
-1.10.63
-Vista 3D: superfície triangulada (facetas, luz por triângulo, cores por cota) e opção Suave (detalhada).
+1.10.64
+Vista 3D: LAZ com célula fina (0,30 m), facetas mais suaves, cores melhor distribuídas e opção Ortofoto na malha (liga/desliga).
