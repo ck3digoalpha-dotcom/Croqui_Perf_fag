@@ -1,2 +1,2 @@
-1.10.64
-Vista 3D: LAZ com célula fina (0,30 m), facetas mais suaves, cores melhor distribuídas e opção Ortofoto na malha (liga/desliga).
+1.10.65
+Vista 3D: malha mais fina durante o giro e giro mais fluido.
